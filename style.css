@@ -1,0 +1,115 @@
+/* SECTION ELEMENTS */
+header{
+background-color: #1c4587;
+}
+
+body{
+    margin: 0;
+}
+
+footer{
+    background-color: #1c4587;
+    text-align: center;
+    margin-top: 2vh;
+    padding: 3em;
+    color: #1c4587;
+}
+
+p{
+    /* font-family: 'Sofia Sans Condensed', sans-serif; */
+    font-size: 1.5em;
+}
+
+
+h1{
+    font-size: 3em;
+}
+
+/* SECTION CLASSES */
+.header-text{
+    color: #ffffff;
+    font-size: 4em;
+}
+
+.border{
+    border: .1em solid #000000;
+    border-radius: 2%;
+    box-shadow: 1pt 1pt #6b6b6b;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.text-border{
+    padding-left: 30em;
+    padding-right: 10em;
+}
+
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.card{
+ display: flex;
+}
+
+.align-items-center{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.img-margin{
+    margin-right: 5em;
+}
+
+.lorem-flex{
+    display: flex;
+}
+
+.block-border{
+    border-top: 1.5em solid #cee1f7;
+    margin-left: 15em;
+    margin-right: 15em;
+}
+
+
+/* .strange-block{
+    background-color: #cfe2f3;
+    color:  #cfe2f3;
+    margin-left: 21em;
+    margin-right: 21em;
+} */
+
+/* .display-flex-img{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    flex-direction: row;
+    margin-right: 5em;
+}
+
+.display-flex-img-2{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    flex-direction: row;
+    margin-right: 9em;
+    font-size: 1em
+}
+
+.display-flex-img-3{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    flex-direction: row;
+    margin-right: 11em;
+    margin-left: 175em;
+    font-size: 0.5em;
+} */
